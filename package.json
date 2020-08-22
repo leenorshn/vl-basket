@@ -1,0 +1,13 @@
+{
+  "name": "vl-basket",
+  "version": "0.0.3",
+  "description": "vl-basket help you build a high cart e-commerce application with more features in one package.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Leenorshn",
+  "license": "ISC"
+}
